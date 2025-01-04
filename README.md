@@ -1,5 +1,5 @@
 
-<h3 style="text-align:center">🚀 Gabriel Almeida <em>(aka Gabron)</em> 🚀</h3>
+<h3 align="center">🚀 Gabriel Almeida <em>(aka Gabron)</em> 🚀</h3>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
