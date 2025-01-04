@@ -29,10 +29,6 @@
 
 ## 🤹 Skills
 
-<div style="display: flex;">
-
-<div style="width: 100%">
-
 <p>Linguagens que domino...</p>
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="height: 40px; margin-right: 6px;"/>
@@ -58,7 +54,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="height: 40px; margin-right: 6px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="height: 40px; margin-right: 6px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="height: 40px; margin-right: 6px;"/>
-          
 </div>
 
 <br>
@@ -70,17 +65,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="height: 40px; margin-right: 6px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" style="height: 40px; margin-right: 6px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" style="height: 40px;"/>
-          
 </div>
-
-</div>
-
-<div>
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-</div>
-
-</div>
-
 
 <br>
 
