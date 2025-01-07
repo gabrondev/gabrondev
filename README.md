@@ -79,7 +79,7 @@
 
 ## 📈 Estatísticas
 
-[![](https://streak-stats.demolab.com?user=gabrondev&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrondev&theme=radical)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrondev&show_icons=true&theme=radical)
 
