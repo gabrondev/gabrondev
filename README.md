@@ -6,20 +6,14 @@
 <a href="https://gabrondev.com" target="_blank">
   <img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank">
 </a>
-<a href="https://www.youtube.com/@gabrondev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/gabrondev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gabrieltux19@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
 
-<p align="center">Um nerd que sempre foi apaixonado por computadores.</p>
-
 🎓 _Formado em engenharia de computação_
 
 👨‍💻 _Trabalho como assistente de sistemas pleno_
-
-🎥 _Crio conteúdo sobre programação_
 
 🎯 _Me especializando em fullstack na [FormaçãoDEV](https://www.formacao.dev)_
 
